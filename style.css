@@ -1,0 +1,44 @@
+h1 {
+    font-family: helvetica, arial, sans-serif;
+    color: #ffffff;
+}
+h4 {
+    font-family: helvetica, arial, sans-serif;
+    color: red
+}
+p {
+    font-family: helvetica, arial, sans-serif;
+    color: #ffffff;
+}
+h3 {
+    font-family: helvetica, arial, sans-serif;
+    color: #ffffff;
+}
+body {
+    background-color: black;
+}
+button {
+    border: none;
+    background-color: crimson;
+    color: white;
+    height: 40px;
+    width: 80px;
+    padding: 0;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: red;
+}
+.backbutton {
+    border: none;
+    background-color: crimson;
+    color: white;
+    height: 20px;
+    width: 20px;
+    padding: 0;
+    transition-duration: 0.4s;
+}
+.redtext {
+    font-family: helvetica, arial, sans-serif;
+    color: red;
+}
